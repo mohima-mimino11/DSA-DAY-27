@@ -19,12 +19,13 @@ bool cmp(Student l, Student r){
   //     return false;
   //   }
   // }
-  // if(l.marks == r.marks){
-  //   return l.roll < r.roll;
-  // }else{
-  //   return l.marks > r.marks;
-  // }
-  return (l.marks == r.marks) ?  l.roll < r.roll :  l.marks > r.marks;
+  cout << "Hello" << endl;
+  if(l.marks == r.marks){
+    return l.roll < r.roll;
+  }else{
+    return l.marks > r.marks;
+  }
+  // return (l.marks == r.marks) ?  l.roll < r.roll :  l.marks > r.marks;
 }
 int main(){
   int n;
