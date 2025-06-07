@@ -1,9 +1,11 @@
-4
+5
 Mimino Programmer
-3 100
+3 200
 Maliha Zahan
-29 75
+29 100
 Israt Jahan
-89 20
+89 100
 Sung Jinwoo
-12 89
+12 100
+Mohima Mimino
+1 200
